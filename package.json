@@ -1,0 +1,24 @@
+{
+  "name": "crypto_trading_bot",
+  "version": "1.0.0",
+  "description": "first attempt at creating a trading bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muemajk/crypto_trading_bot.git"
+  },
+  "author": "muemajk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muemajk/crypto_trading_bot/issues"
+  },
+  "homepage": "https://github.com/muemajk/crypto_trading_bot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cctx": "^1.0.1",
+    "dotenv": "^10.0.0"
+  }
+}
